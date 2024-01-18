@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
       <h1 className='text-3xl font-bold mb-4 text-slate-800'>About ComfyBricks</h1>
-      <p className='mb-4 text-slate-700'>ComfyBricks is a real estate website created and developed by <a className='text-blue-600' href="https://www.linkedin.com/in/sohoomlal-banerjee-689860254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Sohoomlal Banerjee</a> that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
+      <p className='mb-4 text-slate-700'>ComfyBricks is a real estate trading website created and developed by <a className='text-blue-600' href="https://www.linkedin.com/in/sohoomlal-banerjee-689860254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Sohoomlal Banerjee</a> that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
       <p className='mb-4 text-slate-700'>
       Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
       </p>
