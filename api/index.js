@@ -7,6 +7,7 @@ import listingRouter from './routes/listing.route.js';
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import path from 'path';
+
 dotenv.config();
 
 
@@ -21,7 +22,7 @@ mongoose
 
 
 
-  const __dirname = path.resolve();
+const __dirname = path.resolve();
 
 const app = express();
 
@@ -32,7 +33,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 const corsOptions = {
-  origin: 'http://localhost:5173',
+  origin: 'http://localhost:5174',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
   optionsSuccessStatus: 204,
