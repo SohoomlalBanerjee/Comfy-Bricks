@@ -7,7 +7,6 @@ Welcome to ComfyBricks, your go-to platform for exploring and managing real esta
 - **Property Listings:** Explore a wide range of real estate listings with detailed information.
 - **User Authentication:** Securely create an account, log in, and manage your property listings or favorite properties.
 - **Advanced Search:** Find your ideal property with advanced search filters based on location, price, and amenities.
-- **Interactive Maps:** Visualize property locations on interactive maps for a better understanding of the surroundings.
 - **Responsive Design:** Enjoy a seamless and user-friendly experience across various devices.
 
 ## Technologies Used
@@ -15,8 +14,8 @@ Welcome to ComfyBricks, your go-to platform for exploring and managing real esta
 - **Frontend:**
   - React.js
   - Redux for state management
-  - Axios for handling API requests
-  - Bootstrap for styling
+  - Store and manage property images efficiently with Firebase Storage.
+  - Tailwind for styling
 
 - **Backend:**
   - Node.js with Express.js
@@ -24,7 +23,7 @@ Welcome to ComfyBricks, your go-to platform for exploring and managing real esta
   - Mongoose for MongoDB object modeling
 
 - **Authentication:**
-  - JSON Web Tokens (JWT) for secure user authentication
+  - JSON Web Tokens (JWT) and Bcrypt.js for secure user authentication
 
 ## Getting Started
 
