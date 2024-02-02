@@ -56,10 +56,6 @@ MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 Run the development server:
 
-bash
-Copy code
-cd ../ && npm run dev
-Open your browser and go to http://localhost:3000.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
